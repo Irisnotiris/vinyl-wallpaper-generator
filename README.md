@@ -49,11 +49,9 @@ vinyl-wallpaper-generator/
     └── record-wallpaper.png
 ```
 
-## Author
+## Credits
 
-Created by [Irisnotiris](https://github.com/Irisnotiris)
-
-Repository: https://github.com/Irisnotiris/vinyl-wallpaper-generator
+Inspired by and built upon [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator) by [liigoQi](https://github.com/liigoQi).
 
 ## License
 

@@ -49,11 +49,9 @@ vinyl-wallpaper-generator/
     └── record-wallpaper.png
 ```
 
-## 作者
+## 致谢
 
-由 [Irisnotiris](https://github.com/Irisnotiris) 创建
-
-仓库地址：https://github.com/Irisnotiris/vinyl-wallpaper-generator
+本技能灵感来源于 [liigoQi](https://github.com/liigoQi) 的 [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator)，并在此基础上扩展为手机壁纸版本。
 
 ## 许可证
 
