@@ -64,6 +64,18 @@ Choose names that feel like real independent-label acts — memorable, natural, 
 - **No music notes, no treble clefs, no musical symbols.**
 - Lines are sparse, understated, meandering organically.
 
+### Typography
+- Choose fonts to match the source photo's mood and atmosphere — do not use one fixed style for every cover.
+- **Warm & healing** (cozy, comfortable, healing, soft, everyday warmth) → rounded sans-serif, soft handwritten — e.g., Nunito, Quicksand, Comfortaa, Caveat, Kalam
+- **Retro & nostalgic** (nostalgic, vintage, timeless, warm memory) → classic serif, typewriter, retro bold serif — e.g., Playfair Display, Bodoni, Alfa Slab One, Rye, Special Elite
+- **Cool & futuristic** (calm, futuristic, tech, detached, avant-garde) → geometric sans-serif, monospace, futuristic display — e.g., Montserrat, Space Grotesk, JetBrains Mono, Orbitron, Audiowide
+- **Calm & minimal** (peaceful, minimal, clean, crisp, restrained) → clean sans-serif, thin sans-serif — e.g., Inter, Helvetica, Roboto, Work Sans, Lato
+- **Artistic & quiet** (artistic, quiet, dreamy, hazy, emotional) → elegant high-contrast serif, delicate handwritten — e.g., Didot, Bodoni, Cormorant Garamond, Playfair Display, Italianno, Parisienne
+- **Classical & poetic** (classical, poetic, serene, Eastern aesthetic, ink wash landscape, calligraphy, traditional patterns, hanfu/architecture) → classical serif, elegant high-contrast serif (songti-like), delicate handwritten — e.g., Cinzel, Trajan Pro, Playfair Display, Cormorant Garamond, Italianno
+- **Youthful & romantic** (youthful, romantic, lively, dreamy, summery) → flowing script/handwritten, lively serif — e.g., Caveat, Dancing Script, Permanent Marker, Sacramento, Allura, Abril Fatface
+- **Dark & industrial** (dark, edgy, rough, street, powerful, gothic) → bold condensed, slab serif, gothic/decorative serif, distressed display — e.g., Oswald, Bebas Neue, Anton, Rockwell, Arvo, Bungee
+- Cover title and artist name should share one coherent type system.
+
 ### No system UI
 - **Absolutely no** status bar, notch, time display, signal icons, battery icons, carrier text, navigation bar, back button, return arrow, or any smartphone interface element.
 - The top of each image must be completely clean empty gradient space.
@@ -86,7 +98,7 @@ At the very bottom, horizontally centered:
 ## Cover Wallpaper Specs
 
 - The album cover is a **clean square** with subtle paper edge thickness and soft natural contact shadow.
-- Cover content: the primary anchor (from source analysis) rendered through the chosen visual treatments, with release title in a large warm elegant serif and artist name in small refined caps.
+- Cover content: the primary anchor (from source analysis) rendered through the chosen visual treatments, with release title and artist name in a typography style chosen to match the source photo's mood and atmosphere (see Typography rules above).
 - Risograph or subtle print texture is acceptable but must remain light.
 - No tonearm on the cover wallpaper.
 
@@ -94,7 +106,7 @@ At the very bottom, horizontally centered:
 
 - **Exactly one** vinyl record, fully visible, true circular shape, no cropping.
 - Vinyl color/material: an intentional pressing (translucent, marble, splatter, smoke, etc.) relating to the concept — not automatically black.
-- Center label: artist name, release title, catalog number, label identity in the release typography.
+- Center label: artist name, release title, catalog number, and label identity in the release typography. Optionally include a **simplified graphic or symbol derived from the source image** (the primary anchor) as a decorative motif. Small spindle hole in the center. Label background is determined by the overall visual system — no fixed color requirement.
 - Subtle groove texture, natural contact shadow, visible edge thickness.
 
 ### Tonearm (critical placement)
